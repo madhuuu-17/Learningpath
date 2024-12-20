@@ -1,0 +1,53 @@
+{
+  "admin": [
+    {
+      "username": "admin",
+      "password": "1234",
+      "id": "668e"
+    }
+  ],
+  "facultys": [
+    {
+      "username": "adam",
+      "password": "1234",
+      "id": "668e"
+    }
+  ],
+  "users": [
+    {
+      "username": "aadi",
+      "password": "1234",
+      "id": "668e"
+    }
+  ],
+  "faculty": [
+    {
+      "facid": "8725",
+      "facName": "Adam",
+      "facDept": "cse",
+      "facSubject": "Python",
+      "facMajor": "Python",
+      "id": "8725"
+    }
+  ],
+  "students": [
+    {
+      "id": "526e",
+      "rollno": "1",
+      "studentName": "adam",
+      "department": "cse1",
+      "section": "1",
+      "batch": "2021"
+    }
+  ],
+  "parents": [
+    {
+      "id": "1658",
+      "parid": "1",
+      "parentName": "john",
+      "studentName": "Adam",
+      "rollno": "1",
+      "studEmail": "john@gmail.com"
+    }
+  ]
+}
